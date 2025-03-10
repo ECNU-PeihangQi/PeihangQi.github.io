@@ -13,7 +13,7 @@ title                    : "Peihang Qi/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Peihang Qi"
 description              : &description "a student from ECNU"
-url                      : https://ecnu-peihangqi.github.io/PeihangQi.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://ecnu-peihangqi.github.io/PeihangQi.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ECNU-PeihangQi/PeihangQi.github.io"
 
@@ -27,7 +27,7 @@ author:
   pronouns         : "he/his"  
   bio              : "a student from ECNU"
   location         : "China"
-  employer         : "East China Normal University"
+  employer         : 
   uri              : # URL
   email            : "10205101541@stu.ecnu.edu.cn" 
 
